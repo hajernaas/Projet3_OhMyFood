@@ -9,21 +9,12 @@ utilisateurs de composer leur propre menu et de réduire leur temps d’attente 
 restaurants, car leur menu est préparé à l’avance. Plus de perte de temps à consulter la
 carte 
 ## Cible
-Classes moyennes et supérieures, connectées et souvent pressées, souhaitant déguster des
-produits de qualité
+Classes moyennes et supérieures, connectées et souvent pressées, souhaitant déguster des produits de qualité
 
-
-## Objectifs
+# Objectifs
 1. Développer un site proposant le menu de 4 grands restaurants parisiens.
 2. Permettre la réservation en ligne et la composition de menus.
    
-## Compétences évaluées :
-* Mettre en œuvre des effets CSS graphiques avancés
-* Assurer la cohérence graphique d'un site web
-* Mettre en place une structure de navigation pour un site web
-
-
-
 # Livrables
 
 ### Identité graphique
@@ -74,7 +65,10 @@ survol sur desktop au lieu du clic
 #  Installation et exécution 
 
 
-
-
-
+# Compétences évaluées :
+* Mettre en œuvre des effets CSS graphiques avancés
+* Mettre en place une structure de navigation pour un site web
+* Assurer la cohérence graphique d'un site web
+* Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
+* Mettre en place son environnement Front-End
 

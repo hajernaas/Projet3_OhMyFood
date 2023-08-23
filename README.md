@@ -24,7 +24,16 @@ produits de qualité
 
 
 
-## Livrables
+# Livrables
+
+### Identité graphique
+Polices :
+* Logo et titres : Shrikhand
+* Texte : Roboto
+Couleurs :
+* Primaire: #9356DC
+* Secondaire: #FF79DA
+* Tertiaire: #99E2D0
 
 ### Contenu des pages
 #### Page d’accueil (x1)
@@ -49,33 +58,23 @@ animations, afin de soigner le rendu du site, il est important que lorsque nous 
 * À terme, les visiteurs pourront sauvegarder leurs menus préférés. Pour ça, un bouton "J’aime" en forme de cœur est présent sur la maquette. Au clic, il devra se remplir progressivement. Pour cette première version, l’effet peut apparaître au
 survol sur desktop au lieu du clic
 ##### Page d'accueil
-* Quand l’application aura plus de menus, un “loading spinner” sera nécessaire. Sur cette maquette, nous souhaitons en avoir un aperçu. Il devra apparaître pendant 1 à 3 secondes quand on arrive sur la page d'accueil, couvrir l'intégralité de l'écran, et utiliser les animations CSS (pas de librairie). Le design de ce loader n’est pas défini, toute proposition est donc la bienvenue tant qu’elle est cohérente avec la charte graphique du site.
-
+* Quand l’application aura plus de menus, un “loader” sera nécessaire. Sur cette maquette, nous souhaitons en avoir un aperçu. Il devra apparaître pendant 1 à 3 secondes quand on arrive sur la page d'accueil, couvrir l'intégralité de l'écran, et utiliser les animations CSS (pas de librairie). Le design de ce loader n’est pas défini, toute proposition est donc la bienvenue tant qu’elle est cohérente avec la charte graphique du site
 ##### Pages de menu
-* À l’arrivée sur la page, les plats devront apparaître progressivement avec un léger décalage dans le temps. Ils pourront soit apparaître un par un, soit par groupe “Entrées”, “Plats” et “Desserts”. 
-* Le visiteur peut ajouter les plats qu'il souhaite à sa commande en cliquant dessus. Cela fait apparaître une petite coche à droite du plat. Cette coche devra coulisser de la droite vers la gauche. Pour cette première version, l’effet peut apparaître au survol au lieu du clic. Si l’intitulé du plat est trop long, il devra être rogné avec des points de suspension.
+* À l’arrivée sur la page, les plats devront apparaître progressivement avec un léger décalage dans le temps. Ils pourront apparaître soit un par un, soit par groupe “Entrée”, “Plat” et “Dessert”.
+* Le visiteur peut ajouter les plats qu'il souhaite à sa commande en cliquant dessus.Cela fait apparaître une petite coche à droite du plat. Cette coche devra coulisser de la droite vers la gauche. Pour cette première version, l’effet peut apparaître au survol sur desktop au lieu du clic. Si l’intitulé du plat est trop long, il devra être rogné avec des points de suspension.
+  
+# Technologies
+ * HTML, CSS, Sass , sans javascript
+ * Git , GitHub , GitHub Pages
+ * Le code CSS doit être disponible dans un ou plusieurs fichiers dédiés.
+ * Le site devra être réalisé en adoptant le Mobile First, c’est-à-dire qu’il faudra d’abord réaliser l'intégration de la maquette mobile, puis tablette, et enfin l'intégration du responsive vers le desktop
+ * Aucun code CSS ne doit être appliqué via un attribut style dans une balise HTMl
+ * Les pages devront passer la validation W3C en HTML et CSS sans erreurs.
+ * Le site doit être parfaitement compatible avec les dernières versions  de Chrome et Firefox.
+#  Installation et exécution 
 
 
-## Technologies
- HTML, CSS, Sass , sans javascript
 
 
-### Identité graphique
-
-Polices :
-* Logo et titres : Shrikhand
-* Texte : Roboto
-
-Couleurs :
-* Primaire: #9356DC
-* Secondaire: #FF79DA
-* Tertiaire: #99E2D0
-
-### Compatibilité
-Sur tablette et desktop, le site devra s’adapter, mais ces supports n’étant pas prioritaires, leur mise en page est libre.
-* L’ensemble du site devra être responsive sur mobile, tablette et desktop.
-* Les pages devront passer la validation W3C en HTML et CSS sans erreurs.
-* Le site doit être parfaitement compatible avec les dernières versions desktop de
-Chrome et Firefox.
 
 
